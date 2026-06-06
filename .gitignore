@@ -1,13 +1,13 @@
 # Python
 __pycache__/
 *.pyc
+*.ckpt
 
 torch_gpu_env/
 venv/
 env/
 
 data/
-models/
 checkpoints/
 
 logs/
