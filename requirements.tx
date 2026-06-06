@@ -1,0 +1,10 @@
+torch
+torchvision
+pytorch-lightning
+segmentation-models-pytorch
+albumentations
+timm
+matplotlib
+tqdm
+jupyter
+ipykernel
